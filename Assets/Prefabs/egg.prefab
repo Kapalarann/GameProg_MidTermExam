@@ -143,7 +143,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e8cbbca1241b7724b840622d4ff45227, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hatchTimer: 3
+  hatchTimer: 10
   chick: {fileID: 4546060042952484784, guid: 0429ae7f2a8c1564fac9b25a1912f52b, type: 3}
   pos: {fileID: 8222774758876382992}
 --- !u!58 &790969482685832110

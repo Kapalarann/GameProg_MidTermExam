@@ -1146,8 +1146,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4df98433caa9df843be0323e6a5b7340, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  layTimer: 3
-  deathTimer: 4
+  layTimer: 30
+  deathTimer: 40
   egg: {fileID: 8743451425374231978, guid: eb578dee20d353a4a887959bc8e02404, type: 3}
   pos: {fileID: 938049935633074269}
 --- !u!1 &938049935633395105

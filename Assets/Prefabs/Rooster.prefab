@@ -1150,7 +1150,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7c816023a5ba7bf498105df5a58e58d4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathTimer: 4
+  deathTimer: 40
   pos: {fileID: 6509491918365394892}
 --- !u!50 &-1800151276702949556
 Rigidbody2D:

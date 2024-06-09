@@ -2086,7 +2086,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5e5f8e52b4ebbc74f8a5236dd4ae8b68, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  growTimer: 3
+  growTimer: 10
   hen: {fileID: 938049935633074268, guid: b8078acf6461cf54299a848005b67b8f, type: 3}
   rooster: {fileID: 6509491918365394867, guid: 4f1951ec712c9e1458efef23fc169e3d, type: 3}
   pos: {fileID: 4546060042952484785}
